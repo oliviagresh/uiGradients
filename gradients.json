@@ -1532,5 +1532,10 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+
+    {
+      "name": "Sunset Daydream",
+      "colors": ["#F9D9A3", "#F8DBE4", "#C7EAF8"]
     }
 ]
